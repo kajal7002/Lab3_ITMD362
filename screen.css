@@ -1,0 +1,33 @@
+body {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 20px;
+  background-color: lightblue;
+}
+
+fieldset {
+  padding: 25px;
+  margin-left: 5px;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  border: 2px solid blue;
+  border-color: rgba(201, 76, 76, 0.3);
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+label {
+  display: block;
+  float: left;
+  width: 30%;
+  margin-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: right;
+  font-weight: bold;
+}
